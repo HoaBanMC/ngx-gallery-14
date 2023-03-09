@@ -1,6 +1,6 @@
 {
   "name": "ngx-gallery-14",
-  "version": "14.0.2",
+  "version": "14.0.3",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/HoaBanMC/ngx-gallery-14"
@@ -10,8 +10,8 @@
     "url": "https://github.com/HoaBanMC/ngx-gallery-14/issues"
   },
   "peerDependencies": {
-    "@angular/common": "^14.2.12",
-    "@angular/core": "^14.2.12",
+    "@angular/common": "^15.2.2",
+    "@angular/core": "^15.2.2",
     "font-awesome": "^4.7.0"
   },
   "dependencies": {
